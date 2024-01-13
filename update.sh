@@ -1,7 +1,6 @@
-#!/bin/bash
-dpkg-scanpackages . /debs/ > Packages
-bzip2 -fks Packages
-#sed -i -e '/^SHA/d' ./Packages;
-bzip2 -c9k ./Packages > ./Packages.bz2;
-printf "Origin: A BekEs - بيكاس\nLabel: [BK] بيكاس\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitecture: iphoneos-arm\nComponents: main\nDescription: BekEs Best Repo for all Packaging! Cydia + Sileo + Installer + Zebra!.\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
-exit 0;
+#!/bin/sh
+
+dpkg-scanpackages -m ./debs > Packages
+rm -r -f /Users/BekEs-505/Documents/GitHub/repo/Packages.bz2
+bzip2 Packages
+dpkg-scanpackages -m ./debs > Packages
