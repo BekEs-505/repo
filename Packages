@@ -14,6 +14,22 @@ Description: اداة وظيفتها : رسم في اي مكان عند تصوي
 Author: BekEs - بيكاس
 Name: Dr4w
 
+Package: com.bekes-505.github.io.isnake
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 524
+Depends: mobilesubstrate
+Filename: ./debs/iSnake.deb
+Size: 98844
+MD5sum: 6340e464c1e880c1dc1eb0ea200811d1
+SHA1: 924fee86cbbaa9a408fb08945b42f46fe59d6a6f
+SHA256: 83012b5ba8a7cffc6274a0f334b7454dc081eb5c686fae20c0c0590b5c728a84
+Section: Tweaks
+Description: اداة وظيفتها : لعبة الثعبان في الشاشہ الرئسية اضغط مررتين على الشاشه وتشتغل معك
+Author: BekEs - بيكاس
+Name: iSnake
+
 Package: com.bekes-505.github.io.shadow
 Version: 3.7.6
 Architecture: iphoneos-arm
@@ -35,6 +51,38 @@ Section: Tweaks
 Description: اداة وظيفتها : اخفاء الجلبريك عن التطبيقات والبنوك ومنع كشف الجلبريك التفعيل من الاعدادات
 Author: BekEs - بيكاس
 Name: Shadow
+
+Package: com.bekes-505.github.io.situmpro
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 892
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
+Filename: ./debs/SITUMPro.deb
+Size: 479770
+MD5sum: 0340e9f2db2148d39a580169c14b381a
+SHA1: 2403b4dd0de5260be29055cc1fb1ce8db7e7dc01
+SHA256: 94466141f7111973b676a0a49693d82feb12b1c1530d0fd06a5c772bb3f43bd1
+Section: Tweaks
+Description: اداة وظيفتها : تضيف لك خيار البحث في قائمة النسخ واللصق و تفتح لك نافذة صغيرة لمتصفح قوقل
+Author: BekEs - بيكاس
+Name: SITUM Pro
+
+Package: com.bekes-505.github.io.slowmo
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/SlowMo.deb
+Size: 22524
+MD5sum: 9d69ee6956c9eebb3ee5fd64027405aa
+SHA1: 193e9a39746c9ff47dd0e2a35299440782bbfc74
+SHA256: 08682400cb0b66c167d70d9b0893bba2dd0d51d9fbd8892234bd5b6b4f97ee77
+Section: Tweaks
+Description: اداة وظيفتها : إضافة اكثر من خيار للفيديو في تطبيق الصور مثل؟ زيادة سرعة او بطء محتوى الفيديو وحفظه مكرر بعد التعديل
+Author: BekEs - بيكاس
+Name: SlowMo
 
 Package: com.bekes-505.github.io.trollstorehelper
 Version: 2.0.9

@@ -1,2 +1,2 @@
-bash -c "cd /Users/BekEs-505/Documents/GitHub/repo; ./update.sh;"
+bash -c "cd /var/mobile/repo; ./update.sh;"
 exit
