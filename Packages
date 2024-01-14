@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1704
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, firmware (>=14.0), ws.hbang.alderis (>= 1.1)
-Filename: ./debs/com.bekes.firepo.me.dr4w_0.0.deb
+Filename: ./debs/Dr4w.deb
 Size: 1050752
 MD5sum: 9ea977a175fb71c5f6299ae640b5a746
 SHA1: bfd88a7d60c4c6ad938fa431972a6bcce618e9b1
@@ -26,7 +26,7 @@ Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
 Replaces: me.jjolano.shadow.beta
 Provides: me.jjolano.shadow.beta
-Filename: ./debs/com.bekes-505.github.io.shadow_3.7.6_iphoneos-arm.deb
+Filename: ./debs/Shadow.deb
 Size: 356458
 MD5sum: 5122272ded3cdcce6eabbca7881f0f53
 SHA1: 755539a61beb6973d8b35bd9ca23f4599fd21162
@@ -35,4 +35,19 @@ Section: Tweaks
 Description: اداة وظيفتها : اخفاء الجلبريك عن التطبيقات والبنوك ومنع كشف الجلبريك التفعيل من الاعدادات
 Author: BekEs - بيكاس
 Name: Shadow
+
+Package: com.bekes-505.github.io.trollstorehelper
+Version: 2.0.9
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 4300
+Filename: ./debs/TrollStoreHelper.deb
+Size: 2283750
+MD5sum: 4492ff5c415789f8f5441330e309f037
+SHA1: 59ecc4baa70d3a72594561deeab85536c1485638
+SHA256: a37c118a7e245cb670b094d6b1354d48c31735fe5c21cdea318169d3f70ea8b2
+Section: Tweaks
+Description: ادوات وظيفتها : توقيع التطبيقات بشهادة لا نهايه مدى الحياة
+Author: BekEs - بيكاس
+Name: TrollStore Helper
 
