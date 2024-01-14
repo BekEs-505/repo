@@ -1,32 +1,22 @@
-Package: ch.xxtou.hudapp
-Version: 1.9.5
+Package: com.bekes-505.github.io.shadow
+Version: 3.7.6
 Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 404
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.7000)
-Filename: ./debs/ch.xxtou.hudapp_1.9.5_iphoneos-arm.deb
-Size: 125286
-MD5sum: d3db90566ef5262e058b094a313410de
-SHA1: 68e130a61e2365ad002821a1e529368d2b1dcbd2
-SHA256: 546af79f0fb9ac0b527133714a07423c064fb8a4a9f742ea9178c149e395a288
-Section: Tweaks
-Description: Troll speed, but jailbroken.
-Author: Lessica <82flex@gmail.com>
-Name: HUD App
-
-Package: ch.xxtou.hudapp
-Version: 1.9.5
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 404
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.7000)
-Filename: ./debs/ch.xxtou.hudapp_1.9.5_iphoneos-arm64.deb
-Size: 125374
-MD5sum: baefe4d817a1ea62c8ee57a06fc4d366
-SHA1: 5fc0f46eb130019817e63d6973384200018a610c
-SHA256: b9477b6c0c23734bd3c761c64bdec5d056998b67b02e11250d4e29a203951ca3
-Section: Tweaks
-Description: Troll speed, but jailbroken.
-Author: Lessica <82flex@gmail.com>
-Name: HUD App
+Maintainer: jjolano
+Installed-Size: 1428
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Provides: me.jjolano.shadow.beta
+Filename: ./debs/com.bekes-505.github.io.shadow_3.7.6_iphoneos-arm.deb
+Size: 356418
+MD5sum: 83fc755796db55a8498b8ba0c1e5ce25
+SHA1: 5ec18cd70ccf9f70629a8355593c2a4960195c85
+SHA256: 9c6731ad97d4452cff8e4d55f7e32cb39c8ad5f722e4793e7686a59ee005b579
+Section: System
+Description: اداة وظيفتها : اخفاء الجلبريك عن التطبيقات والبنوك ومنع كشف الجلبريك التفعيل من الاعدادات
+Author: jjolano
+Name: Shadow
 
