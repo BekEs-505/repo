@@ -1,7 +1,23 @@
+Package: com.bekes-505.github.io.dr4w
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1704
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, firmware (>=14.0), ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.bekes.firepo.me.dr4w_0.0.deb
+Size: 1050752
+MD5sum: 9ea977a175fb71c5f6299ae640b5a746
+SHA1: bfd88a7d60c4c6ad938fa431972a6bcce618e9b1
+SHA256: b7d8d7fafe9fa4e58221cb52a45431ccc23a44b0c7cd34094e92b1c94eae76c5
+Section: Tweaks
+Description: اداة وظيفتها : رسم في اي مكان عند تصوير الشاشة لي الشروحات
+Author: BekEs - بيكاس
+Name: Dr4w
+
 Package: com.bekes-505.github.io.shadow
 Version: 3.7.6
 Architecture: iphoneos-arm
-Maintainer: jjolano
+Maintainer: @B6_7E
 Installed-Size: 1428
 Pre-Depends: dpkg
 Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy
@@ -11,12 +27,12 @@ Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
 Replaces: me.jjolano.shadow.beta
 Provides: me.jjolano.shadow.beta
 Filename: ./debs/com.bekes-505.github.io.shadow_3.7.6_iphoneos-arm.deb
-Size: 356418
-MD5sum: 83fc755796db55a8498b8ba0c1e5ce25
-SHA1: 5ec18cd70ccf9f70629a8355593c2a4960195c85
-SHA256: 9c6731ad97d4452cff8e4d55f7e32cb39c8ad5f722e4793e7686a59ee005b579
-Section: System
+Size: 356458
+MD5sum: 5122272ded3cdcce6eabbca7881f0f53
+SHA1: 755539a61beb6973d8b35bd9ca23f4599fd21162
+SHA256: 7be207ebba67d10cc0a48684a4c30ec3f2ce75989807efc62529c3433b26dc83
+Section: Tweaks
 Description: اداة وظيفتها : اخفاء الجلبريك عن التطبيقات والبنوك ومنع كشف الجلبريك التفعيل من الاعدادات
-Author: jjolano
+Author: BekEs - بيكاس
 Name: Shadow
 
