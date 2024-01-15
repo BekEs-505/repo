@@ -30,6 +30,24 @@ Description: اداة وظيفتها : لعبة الثعبان في الشاشہ
 Author: BekEs - بيكاس
 Name: iSnake
 
+Package: com.bekes-505.github.io.reprovision
+Version: 0.8.4~release
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>= 9.0)
+Conflicts: com.matchstic.reprovision
+Filename: ./debs/ReProvisionReborn.deb
+Size: 16789288
+MD5sum: 863ef249a97473b5fa2f24ca3948018b
+SHA1: 08a0a7f6902dce1218200c92c7d3b2885dcbb2c6
+SHA256: 5b88d98921f476e115c35301bc166f99915bda6d2ac5ee821f1075504005d7a5
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : تجديد شهادة التطبيقات المثبته لديك بشكل تلقائي اسبوعياً بدون الحاجة الى كمبيوتر
+Author: BekEs - بيكاس
+Dev: Matt Clarke
+Name: ReProvision Reborn
+
 Package: com.bekes-505.github.io.shadow
 Version: 3.7.6
 Architecture: iphoneos-arm
