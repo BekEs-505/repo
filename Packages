@@ -84,6 +84,23 @@ Description: اداة وظيفتها : إضافة اكثر من خيار للف�
 Author: BekEs - بيكاس
 Name: SlowMo
 
+Package: com.bekes-505.github.io.spy2
+Version: 1.3-1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2912
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.opa334.ccsupport, ws.hbang.common
+Conflicts: com.elias.spy
+Filename: ./debs/Spy2.deb
+Size: 1433504
+MD5sum: ab0607dc380525b0ab5efffb2acf0051
+SHA1: 860a490528cf6fe8b63ecf2f80d362af7c59ba0a
+SHA256: d1677e4b5d5fdba6a390acb40e5c764fd0b7afcd555c0430e369cf98e142903e
+Section: Tweaks
+Description: اداة وظيفتها : لقفل التطبيقات عن الملاقيف ووضع رقم سري وعباره وانذار عند الدخول على بعض التطبيقات المحدده وخيارات كثير
+Author: BekEs - بيكاس
+Name: Spy 2
+
 Package: com.bekes-505.github.io.stickynote
 Version: 1.1.1
 Architecture: iphoneos-arm
