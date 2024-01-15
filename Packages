@@ -1,3 +1,18 @@
+Package: com.bekes-505.github.io.celldia
+Version: 0.0~beta5
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate, cydia
+Filename: ./debs/CellDia.deb
+Size: 20078
+MD5sum: 4f4c7e6464c3eda24bfc2932abf019c0
+SHA1: c7f1fd6a5fcfc6d69eb1d2bbcec855c52a21fd34
+SHA256: d0c3f3e6c97c0f5193dcb2f7903917858ed8d3c544f5ee8a244abc41e61a8c6c
+Section: Tweaks
+Description: اداة وظيفتها : تغيير شكل تصميم السيديا مع اضافة بعض المميزات مثل سهولة حذف و تنزيل الادوات
+Author: BekEs - بيكاس
+Name: CellDia
+
 Package: com.bekes-505.github.io.dr4w
 Version: 0.0.1
 Architecture: iphoneos-arm
