@@ -1,3 +1,22 @@
+Package: com.bekes-505.github.io.avtools
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 221
+Depends: firmware (>= 13.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./debs/AVTools.deb
+Size: 26138
+MD5sum: 80b6aa55e4def534a8743b0ec430a313
+SHA1: e7c8cc5638e9cde2f26144d97921ba650a696dce
+SHA256: 146b7b79168f11ce476023dc6ee8935fbf8fff541207178d7e561f1f0b86be23
+Section: Tweaks
+Description: اداة وظيفتها : تقديم المقطع في المشغل الايفون الاساسي من 15 ثانية الي اي وقت تضعه انت وفيه ميزة اغلاق تحرك الجوال وقفل على حسب الاتجاه
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: crazymind90
+Name: AVTools
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.bekes-505.github.io.celldia
 Version: 0.0~beta5
 Architecture: iphoneos-arm
