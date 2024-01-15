@@ -84,6 +84,21 @@ Description: اداة وظيفتها : إضافة اكثر من خيار للف�
 Author: BekEs - بيكاس
 Name: SlowMo
 
+Package: com.bekes-505.github.io.stickynote
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkcolourpicker
+Filename: ./debs/StickyNote.deb
+Size: 134322
+MD5sum: a0264419c0838e9ddd358b618d6672f8
+SHA1: 7b6520565736aaf7c4387b730920e04bdd16da02
+SHA256: 957cee54617aea95e2aa36d9007c15310035e2b0b9fac88d440ab720aa46c34b
+Section: Tweaks
+Description: اداة وظيفتها : عبارة عن صفحة نوت صغيرة  في قفل الشاشة تقدر من خلالها تكتب اي موعد و تحذف النوت و ايضا اخفاء النوت عبر الورقة اسفل الشاشة
+Author: BekEs - بيكاس
+Name: StickyNote
+
 Package: com.bekes-505.github.io.trollstorehelper
 Version: 2.0.9
 Architecture: iphoneos-arm
