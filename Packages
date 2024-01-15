@@ -183,3 +183,19 @@ Description: ادوات وظيفتها : توقيع التطبيقات بشها�
 Author: BekEs - بيكاس
 Name: TrollStore Helper
 
+Package: dev.midn1ght.copylog
+Version: 1.5.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 4604
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/CopyLog.deb
+Size: 2122496
+MD5sum: 6656afabc03cae2f57dbf7bb4e748f16
+SHA1: 75eee0714e044174d5a77cc1de5f1d1240a7efac
+SHA256: 83649ed97d2555031f384761ed4a7220498d0332b668fea9eb6e22441ab8e05f
+Section: Tweaks
+Description: اداة وظيفتها : اي نص تقوم بنسخه من اي مكان سيتم حفظه تلقائيًا في قائمة خاصة بالاداة مع مكانية استعراض جميع النصوص المنسوخة ووضع المهم منها في المفضلة
+Author: BekEs - بيكاس
+Name: CopyLog
+
