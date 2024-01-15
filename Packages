@@ -199,3 +199,22 @@ Description: اداة وظيفتها : اي نص تقوم بنسخه من اي �
 Author: BekEs - بيكاس
 Name: CopyLog
 
+Package: ru.rejail.dleasy
+Version: 2.14.3
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 15583
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.3_iphoneos-arm.deb
+Size: 5558670
+MD5sum: b6d5ec730e09941e37d44a9aa57c5140
+SHA1: 4e5798a979b4829744911a2e9307c94fd91cb525
+SHA256: 2a18c17e78e17a85faec8fa9895f39f17e2b1de8c828b1490cb7ddf8fb368f73
+Section: Tweaks
+Description: Загружайте изображения и видео из социальных сетей.
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depiction: https://rejail.ru/depiction.php?file=dleasy
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+Name: DLEasy Rus
+Sileodepiction: https://rejail.ru/sileo/depiction.php?file=dleasy
+
