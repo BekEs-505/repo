@@ -59,10 +59,10 @@ Maintainer: @B6_7E
 Installed-Size: 892
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
 Filename: ./debs/SITUMPro.deb
-Size: 479770
-MD5sum: 0340e9f2db2148d39a580169c14b381a
-SHA1: 2403b4dd0de5260be29055cc1fb1ce8db7e7dc01
-SHA256: 94466141f7111973b676a0a49693d82feb12b1c1530d0fd06a5c772bb3f43bd1
+Size: 478758
+MD5sum: 8cbaa0e8fafe21090d6c99b85ab8bb35
+SHA1: af1aaa28c74755418370b0ba986032893d63e5a2
+SHA256: ea3a23c3cb3180ebcc083eae9d783acb7d9345bee80f786105f8135f2767c709
 Section: Tweaks
 Description: اداة وظيفتها : تضيف لك خيار البحث في قائمة النسخ واللصق و تفتح لك نافذة صغيرة لمتصفح قوقل
 Author: BekEs - بيكاس
