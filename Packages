@@ -30,6 +30,23 @@ Description: اداة وظيفتها: تطبيق وهمي على شكل متصف
 Author: BekEs - بيكاس
 Name: AgentCamera
 
+Package: com.bekes-505.github.io.aimpro
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 6172
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/AIMPro.deb
+Size: 2954774
+MD5sum: a792b3b7965e35f880334aa7c3af42a8
+SHA1: 3460d9f6613827fb38e3e2be68daf057b1fd12df
+SHA256: 2fe887a82788829c8551dc0f751d5c30cb44b206ea9d56289347b0fc4cb4f8ca
+Section: Tweaks
+Description: اداة وظيفتها : جلب مميزات شاشة القفل في الأصدار ios 16 الى الأصدارات القديمة مثل الوقت و التاريخ و الاشعارات في الاسفل و الويدجت
+Author: BekEs - بيكاس
+Name: AIM Pro
+
 Package: com.bekes-505.github.io.avtools
 Version: 1.2
 Architecture: iphoneos-arm
