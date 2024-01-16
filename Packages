@@ -128,6 +128,23 @@ Description: اداة وظيفتها : فتح اكثر من حساب في تطب
 Author: BekEs - بيكاس
 Name: Crane
 
+Package: com.bekes-505.github.io.cylinder
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1652
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/CylinderReborn.deb
+Size: 501308
+MD5sum: 50a295b6132423e015ce1497187da0dd
+SHA1: 610964ba4d125439c7ab78aa16054a4915c2c718
+SHA256: bebd80d328bb519602b8990d969a5fd12862fda262730e4c7ac7c000297fbea1
+Section: Tweaks
+Description: اداة وظيفتها : تغير طريقة حركة الايقونات عند التنقل بين الصفحات بحركات من اختيارك
+Tag: compatible_min::ios11.0
+Author: BekEs - بيكاس
+Name: Cylinder Reborn
+
 Package: com.bekes-505.github.io.deleteforeverxs
 Version: 1.1
 Architecture: iphoneos-arm
