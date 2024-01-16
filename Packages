@@ -33,6 +33,38 @@ Dev: crazymind90
 Name: AVTools
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bekes-505.github.io.bfdecrypt
+Version: 1.3.3-1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 560
+Depends: firmware (>=11.0), preferenceloader, applist
+Filename: ./debs/Bfdecrypt.deb
+Size: 166716
+MD5sum: 1f89517fd599506cdb677bd4509845a2
+SHA1: 10f4382c7c785dbdb2357a492f0e1587fffadf03
+SHA256: 14be39afb952a9532428b089c31ea9db59f14263199fdc3efc0a945fd9aa6a41
+Section: Tweaks
+Description: اداة وظيفتها : تحويل التطبيقات المثبته في  جهازك ‏الى صيغة IPA وارسالها لي اي شخص
+Author: BekEs - بيكاس
+Name: Bfdecrypt
+
+Package: com.bekes-505.github.io.bfdecryptrootles
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 388
+Depends: mobilesubstrate, com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/Bfdecrypt Rootless.deb
+Size: 122784
+MD5sum: a6ab03add8681b060a7f7eb960f4c001
+SHA1: 92319966a4db6f4594ac30634433bbfead9153cd
+SHA256: 200f3a3ceb8910d98dd9437f6c1ea004fc422716d13239d818d361a813586106
+Section: Tweaks
+Description: اداة وظيفتها : تحويل التطبيقات المثبته في جهازك ‏الى صيغة IPA وارسالها لي اي شخص
+Author: BekEs - بيكاس
+Name: Bfdecrypt Rootless
+
 Package: com.bekes-505.github.io.celldia
 Version: 0.0~beta5
 Architecture: iphoneos-arm
@@ -47,6 +79,21 @@ Section: Tweaks
 Description: اداة وظيفتها : تغيير شكل تصميم السيديا مع اضافة بعض المميزات مثل سهولة حذف و تنزيل الادوات
 Author: BekEs - بيكاس
 Name: CellDia
+
+Package: com.bekes-505.github.io.crackerxi
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>= 11.0)
+Filename: ./debs/CrackerXI+.deb
+Size: 9960984
+MD5sum: 49409152fd83a18d1ebe9381de9320d5
+SHA1: 43f8f2af192497ae2bb88762163136de71dd9293
+SHA256: eca007da59a8686b5385e59163798afbd944bbf167c69ee05e1886ea2bfa877e
+Section: Tweaks
+Description: اداة وظيفتها : تكريك التطبيقات وتحويلها الى IPA
+Name: CrackerXI+
+Website: https://ipastore.me
 
 Package: com.bekes-505.github.io.crane
 Version: 1.3.14
@@ -96,6 +143,22 @@ Section: Tweaks
 Description: اداة وظيفتها : لعبة الثعبان في الشاشہ الرئسية اضغط مررتين على الشاشه وتشتغل معك
 Author: BekEs - بيكاس
 Name: iSnake
+
+Package: com.bekes-505.github.io.ohw2
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 540
+Depends: mobilesubstrate
+Filename: ./debs/OneHandWizard2.deb
+Size: 79476
+MD5sum: 9c482150f0c7d3b38caf15c558dc44ef
+SHA1: cbe4da01a0044da483ab3bd1333116fd99912840
+SHA256: 1127ac86dec2bc1cc68bcb3e9043e04c268e3590aeca84576026aeb1d08d87a0
+Section: Tweaks
+Description: اداة وظيفتها : صغير الشاشة لتكون مناسبه ليدك  بدلًا من إنزالها عند سحب شريط الرئيسية إلى أسفل (iPhone X وأحدث) أو لمس زر الرئيسية مرتين الأجهزة القديمة مما يسمح بالوصول إلى كامل الشاشة بيد واحدة
+Author: BekEs - بيكاس
+Name: OneHandWizard 2
 
 Package: com.bekes-505.github.io.pencilbanner
 Version: 1.2
