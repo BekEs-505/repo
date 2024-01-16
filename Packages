@@ -208,6 +208,27 @@ Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 Author: BekEs - بيكاس
 Name: PerfectCalc
 
+Package: com.bekes-505.github.io.pmp
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 724
+Depends: mobilesubstrate, preferenceloader, firmware(>= 11.0), com.opa334.ccsupport
+Conflicts: com.yourepo.ikghd.pmp
+Filename: ./debs/PMP.deb
+Size: 111672
+MD5sum: de2c54c25532a76097863196b768058e
+SHA1: c56215256581b497d7b7951bec198eec599f5af5
+SHA256: fd80878f961cab6a90e3f8d934828294b8bbcb92b6aad8aa9042f79f89540ace
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : اخفاء جميع الصور في جميع الالبومات الي عندك
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios15.0
+Author: BekEs - بيكاس
+Dev: ikghd
+Name: PMP
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.bekes-505.github.io.reprovision
 Version: 0.8.4~release
 Architecture: iphoneos-arm
