@@ -14,6 +14,22 @@ Description: اداة وظيفتها : تحميل الصوتيات من رواب
 Author: BekEs - بيكاس
 Name: AFSound
 
+Package: com.bekes-505.github.io.agentcamera
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 281
+Depends: org.swift.libswift (>= 5.0)
+Filename: ./debs/AgentCamera.deb
+Size: 67504
+MD5sum: 8f36a82ba7c959eaf1f0f1cd75608a44
+SHA1: 3f046c2c300f5622dda3ce761032aa0e40a5288f
+SHA256: c6c5327290bcf350a274bb17701b2a4d6fee6fdf2e1dbfd617c6db8c288dff5e
+Section: Tweaks
+Description: اداة وظيفتها: تطبيق وهمي على شكل متصفح قوقل للتصوير فيديو بوضع التخفي بدون فتح الكاميرا
+Author: BekEs - بيكاس
+Name: AgentCamera
+
 Package: com.bekes-505.github.io.avtools
 Version: 1.2
 Architecture: iphoneos-arm
