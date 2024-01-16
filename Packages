@@ -183,6 +183,22 @@ Description: ادوات وظيفتها : توقيع التطبيقات بشها�
 Author: BekEs - بيكاس
 Name: TrollStore Helper
 
+Package: com.bekes-505.github.io.xline
+Version: 2.5-2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: com.cunstuck.xline
+Filename: ./debs/XLine.deb
+Size: 243074
+MD5sum: 4b826bca0d60e35bfa45ed2e9c9ad2d7
+SHA1: c28f270948b5a4b37efef13add4bb3fa23285046
+SHA256: cac2bb5d73527da6ab6bb9ea57de4f0ad1c60cab35ce643cb2984960129d3be1
+Section: Tweaks
+Description: اداة وظيفتها : فتح اكثر من حساب في تطبيق واحد والتبديل بينهم عبر الضغط على التطبيق يضهر لك عدد الحسابات المضافة وتختار اي حساب
+Author: CUNSTUCK
+Name: XLine
+
 Package: dev.midn1ght.copylog
 Version: 1.5.4
 Architecture: iphoneos-arm
