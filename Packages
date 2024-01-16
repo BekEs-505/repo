@@ -381,6 +381,22 @@ Description: ادوات وظيفتها : توقيع التطبيقات بشها�
 Author: BekEs - بيكاس
 Name: TrollStore Helper
 
+Package: com.bekes-505.github.io.turkey
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/Turkey.deb
+Size: 15262
+MD5sum: b770f5d1b79b188c01ca87c555c2207e
+SHA1: fa590c1c884c47e104f49f254994034b3c237657
+SHA256: 67749b3b907a7cd4511a53da44dca77b2ccc9a0cae5e27890379a16042c0c18d
+Section: Tweaks
+Description: اداة وظيفتها : الوضع ليلي لي السيديا وجعله بشكل جميل
+Author: BekEs - بيكاس
+Name: Turkey
+
 Package: com.bekes-505.github.io.xline
 Version: 2.5-2
 Architecture: iphoneos-arm
