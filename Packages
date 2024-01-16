@@ -359,6 +359,25 @@ Description: اداة وظيفتها : تعين جهة اتصال وهمية ت�
 Author: BekEs - بيكاس
 Name: Escape
 
+Package: con.bekes-505.github.io.anilaunch
+Version: 1.1.10
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 807
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/Anilaunch.deb
+Size: 244512
+MD5sum: 65c9167b3561af2087176b2f21757dd4
+SHA1: 642ee207b2492ddaf288b0df82ffad98b91554fe
+SHA256: 83ad443bfa680dbcba7f79fa8fcf723d53027d69ce6e45e99914db5bd9c4e0a8
+Section: Tweaks
+Description: اداة وظيفتها : تمنحك انميشن عند الدخول والخروج من التطبيقات و انميشن عند التنقل بين الصفحات
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: BekEs - بيكاس
+Dev: merdok
+Name: Anilaunch
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: dev.midn1ght.copylog
 Version: 1.5.4
 Architecture: iphoneos-arm
