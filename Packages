@@ -81,22 +81,6 @@ Description: اداة وظيفتها : رسم في اي مكان عند تصوي
 Author: BekEs - بيكاس
 Name: Dr4w
 
-Package: com.bekes-505.github.io.escape
-Version: 2.5.6
-Architecture: iphoneos-arm
-Maintainer: @B6_7E
-Installed-Size: 1216
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/Escape.deb
-Size: 826928
-MD5sum: 441d4eb655c2da7914a345fc2f714588
-SHA1: 667d92db1876d26f8b78feae03a7ff96ce304493
-SHA256: 70b7a226e434f713555a024b6a3b0065e370ff2ac380922ff1337393c617fc3c
-Section: Tweaks
-Description: اداة وظيفتها : تعين جهة اتصال وهمية تتصل عليك مع امكانية اختيار متى يبدا الاتصال
-Author: BekEs - بيكاس
-Name: Escape
-
 Package: com.bekes-505.github.io.isnake
 Version: 2.0.0
 Architecture: iphoneos-arm
@@ -279,6 +263,22 @@ Section: Tweaks
 Description: اداة وظيفتها : فتح اكثر من حساب في تطبيق واحد والتبديل بينهم عبر الضغط على التطبيق يضهر لك عدد الحسابات المضافة وتختار اي حساب
 Author: BekEs - بيكاس
 Name: XLine
+
+Package: com.platykor.escape
+Version: 2.5.6
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Escape.deb
+Size: 826920
+MD5sum: 1da34b908338febbbb8aa4c0315ad895
+SHA1: 611d65ffe701b5eb6e5cc6e57ddb0df872b7ec4c
+SHA256: bbe46306140afd18d537d71980cbeb89745c750b8e1c666f8e8a25c472536aef
+Section: Tweaks
+Description: اداة وظيفتها : تعين جهة اتصال وهمية تتصل عليك مع امكانية اختيار متى يبدا الاتصال
+Author: BekEs - بيكاس
+Name: Escape
 
 Package: dev.midn1ght.copylog
 Version: 1.5.4
