@@ -128,6 +128,22 @@ Description: اداة وظيفتها : فتح اكثر من حساب في تطب
 Author: BekEs - بيكاس
 Name: Crane
 
+Package: com.bekes-505.github.io.deleteforeverxs
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/DeleteForeverXS.deb
+Size: 9484
+MD5sum: 4f66bd2a4b5ef958906916b4285c9548
+SHA1: e2c80897eede057e46463a3c0988479278ad574c
+SHA256: cffba930c6fdba8bde27d10c83f5db4ede4f40cf4bafb5af8f299e548aa13435
+Section: Tweaks
+Description: اداة وظيفتها : تمنحك خيار جديد لحذف الصور والفيديو بشكل نهائي دون ذهابها الى سلة المحذوفات (المحذوف مؤخرا)
+Author: BekEs - بيكاس
+Name: DeleteForeverXS
+
 Package: com.bekes-505.github.io.dr4w
 Version: 0.0.1
 Architecture: iphoneos-arm
